@@ -11,5 +11,8 @@ Check out my socials + portfolio:
 <a href="https://louisebfraser.com" target="blank">
     <img width="50" height="50" src="https://github.com/user-attachments/assets/9b2065a6-a587-4232-a4bb-598943025c69" />
   </a>
+    &nbsp;
+  <img width="50" height="50" alt="dribble" src="https://github.com/user-attachments/assets/6bf4ee9c-b441-44fe-b6de-b01281c0416e" />
+
 </p>
 
