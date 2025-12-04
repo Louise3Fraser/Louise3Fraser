@@ -4,9 +4,9 @@ I'm Louise, and I enjoy building at the intersection of **engineering** and **de
 Quick links + peek at selected works:
 
 <p align="start">
-  <a href="https://linkedin.com/in/louisebfraser"><img width="50" height="50" src="https://github.com/user-attachments/assets/861d2653-d354-48f6-81dd-43e253bf4ed9"/></a>
+   <a href="https://louisebfraser.com"><img width="50" height="50" src="https://github.com/user-attachments/assets/9b2065a6-a587-4232-a4bb-598943025c69" /></a>
   &nbsp;
-  <a href="https://louisebfraser.com"><img width="50" height="50" src="https://github.com/user-attachments/assets/9b2065a6-a587-4232-a4bb-598943025c69" /></a>
+  <a href="https://linkedin.com/in/louisebfraser"><img width="50" height="50" src="https://github.com/user-attachments/assets/861d2653-d354-48f6-81dd-43e253bf4ed9"/></a>
   &nbsp;
    <a href="https://drive.google.com/file/d/1m9C3TPaaXxk_CodaNdkIeIFAmytYhN3W/view?usp=sharing"><img width="40" height="55" alt="canvas-3d" src="https://github.com/user-attachments/assets/dc4aca03-64fd-4827-bf2c-dda8ce7ffc65" /></a>
   &nbsp;
@@ -17,4 +17,4 @@ Quick links + peek at selected works:
   <a href="https://reveal-effect-eight.vercel.app/"><img width="50" height="50" alt="reveal-logo" src="https://github.com/user-attachments/assets/28190d18-fd86-4e8b-b89b-6f39d60441b1" /></a>
 </p>  
 
-<code>*LinkedIn, portfolio, resume, and selected projects*</code>
+<code>*__★ portfolio__, LinkedIn, resume, and selected projects*</code>
