@@ -15,10 +15,8 @@ Check out my socials + portfolio:
   <a href="https://louisebfraser.com" target="blank">
     <img width="50" height="50" alt="dribble" src="https://github.com/user-attachments/assets/6bf4ee9c-b441-44fe-b6de-b01281c0416e" />
   </a>
-      &nbsp;
-  <a href="https://louisebfraser.com" target="blank">
-    <img width="50" height="50" alt="canvas3d" src="https://github.com/user-attachments/assets/ad2e54fe-9658-4d05-9174-8f9b186f1bd7" />
-  </a>  
-
 </p>
+
+<img width="70" height="70" alt="Screenshot 2025-12-03 at 11 46 05 PM" src="https://github.com/user-attachments/assets/f7bd0e74-43cb-4589-b800-f84f31857667" />
+
 
