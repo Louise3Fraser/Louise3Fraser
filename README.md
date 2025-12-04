@@ -8,7 +8,7 @@ Quick links + peek at selected works:
   &nbsp;
   <a href="https://linkedin.com/in/louisebfraser"><img width="50" height="50" src="https://github.com/user-attachments/assets/861d2653-d354-48f6-81dd-43e253bf4ed9"/></a>
   &nbsp;
-   <a href="https://drive.google.com/file/d/1m9C3TPaaXxk_CodaNdkIeIFAmytYhN3W/view?usp=sharing"><img width="40" height="55" alt="canvas-3d" src="https://github.com/user-attachments/assets/dc4aca03-64fd-4827-bf2c-dda8ce7ffc65" /></a>
+   <a href="https://drive.google.com/file/d/1m9C3TPaaXxk_CodaNdkIeIFAmytYhN3W/view?usp=sharing"><img width="37" height="54" alt="canvas-3d" src="https://github.com/user-attachments/assets/dc4aca03-64fd-4827-bf2c-dda8ce7ffc65" /></a>
   &nbsp;
    <a href="https://the-random-gallery.vercel.app/"><img width="50" height="50" alt="canvas-3d" src="https://github.com/user-attachments/assets/5d35d050-1a21-4406-ab4d-0a66d574c2d1" /></a>
   &nbsp;
