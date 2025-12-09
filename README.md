@@ -1,4 +1,3 @@
-### Hello & welcome!  
 I'm Louise, and I enjoy building at the intersection of **engineering** and **design**. I recently graduated from Vanderbilt University where I studied computer science and psychology. Outside of work, I’m usually cooking, hiking, playing videogames, or watching movies.
 
 Quick links + peek at selected works:
